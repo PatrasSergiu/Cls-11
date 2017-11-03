@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504387382 source:d:\info\meditatii\shuffle\main.cpp
+	<fstream>
+	<vector>
+

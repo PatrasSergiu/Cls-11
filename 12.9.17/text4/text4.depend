@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505830342 source:d:\info\meditatii\12.9.17\text4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

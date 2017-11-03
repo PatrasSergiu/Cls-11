@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506091318 source:d:\info\meditatii\21.9.17\tftu\main.cpp
+	<iostream>
+	<fstream>
+

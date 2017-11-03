@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504481301 source:d:\info\meditatii\dasha\main.cpp
+	<iostream>
+	<algorithm>
+

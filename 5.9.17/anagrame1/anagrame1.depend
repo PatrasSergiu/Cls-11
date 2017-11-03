@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504261966 source:d:\info\meditatii\anagrame1\main.cpp
+	<fstream>
+	<string.h>
+

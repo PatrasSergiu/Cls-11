@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505845981 source:d:\info\meditatii\12.9.17\prenr8\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+

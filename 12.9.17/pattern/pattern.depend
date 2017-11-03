@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504743406 source:d:\info\meditatii\pattern\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

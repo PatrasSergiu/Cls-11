@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506522779 source:d:\info\meditatii\21.9.17\retetabk\retetabk\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507125621 source:d:\info\meditatii\21.9.17\inel\main.cpp
+	<iostream>
+	<fstream>
+

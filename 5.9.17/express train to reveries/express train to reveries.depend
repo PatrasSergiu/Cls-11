@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1505490482 source:d:\info\meditatii\5.9.17\express train to reveries\main.cpp
+	<iostream>
+	<fstream>
+
+1505738748 source:d:\info\meditatii\5.9.17\express train to reveries\finally.cpp
+	<iostream>
+	<fstream>
+

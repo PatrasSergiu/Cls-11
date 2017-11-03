@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505657750 source:d:\info\meditatii\12.9.17\rucsac\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

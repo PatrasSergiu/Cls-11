@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505316696 source:d:\info\meditatii\12.9.17\generare2 it\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504652634 source:d:\info\meditatii\sirab\main.cpp
+	<fstream>
+	<stdlib.h>
+

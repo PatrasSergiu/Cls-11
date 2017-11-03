@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504794939 source:d:\info\meditatii\zona3\main.cpp
+	<fstream>
+	<queue>
+
